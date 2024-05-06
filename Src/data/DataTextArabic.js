@@ -1,0 +1,273 @@
+const Text_Arabic = {
+  expenses: 'نفقــاتي',
+  add: 'إضافة',
+  AmericandollarLong: 'دولار امريكي',
+  RialSudiaLong: 'ريال سعودي',
+  RialYemeniLong: 'ريال يمني',
+  AmericandollarShort: '$',
+  RialSudiaShort: 'ر.ي.س',
+  RialYemeniShort: 'ر.ي',
+  Amounts_In_dollars: 'المبالغ بالدولار',
+  The_required_data_must_be_completed: 'يجب اكمال البيانات المطلوبه',
+  SavedSuccessfully: 'تم الحفظ بنجاح',
+  notSaved: 'لم يتم الحفظ',
+  savedTheOperationSuccessfully: 'تم العملية بنجاح',
+  nameAccount: 'اسم الحساب',
+  You_must_specify_Aname_OR_accountNumber: 'يجب تحديد الاسم او رقم الحساب',
+  You_must_specify_Aname_or_number: 'يجب تحديد اسم او رقم',
+  Select_Aname_OR_account_number: 'اختر اسم او رقم للحساب',
+  Add_Subsidiary_expenses: 'أضافة نفقات فرعية',
+  Total: 'الاجمالي',
+  Manifesto: 'البيان',
+  Manifesto_required: 'البيان مطلوب',
+  Currency_must_be_selected: 'يجب تحديد العملة',
+  Amount: 'المبلغ',
+  Note: 'ملاحظة',
+  Time: 'الوقت',
+  Edit: 'تعديل',
+  save: 'حفظ',
+  Edit_from_here: 'للتعديل من هنا',
+  Are_you_sure_you_want_to_delete_the_task:
+    'هل انت متاكد من رغبتك في حذف المهمة',
+  It_is_not_possible_choose_tow_consecutive_marks:
+    'لايمكن اختيار علامتين متتالية',
+  No: 'لا',
+  Yes: 'نعم',
+  ok: 'تم',
+  Receive: 'إستلام',
+  To_Push: 'دفع',
+  The_paid_amount_cannot_be_higher_then_the_total:
+    'لايمكن ان يكون المبلغ المسدد اعلى من الاجمالي',
+  Creditor: 'الدائن',
+  theDebtor: 'المدين',
+  TotalDebt: 'اجمالي الدين',
+  StartingDate: 'تاريخ البدء',
+  ExpiryDate: 'تاريخ الانتهاء',
+  Paid_off_the_debt_so_far: 'المٌسدد من الدين إلى الان ',
+  The_amount_paid: 'المبلغ المدفوع',
+  Total_Paid: 'اجمالي المدفوع',
+  Payment: 'تسديد',
+  His_mobile_Number: 'رقم جواله',
+  Successful_payment: 'تم التسديد بنجاح',
+  Amount_reimbursed: 'المبلغ المسدد',
+  Have: 'لدي',
+  Has: 'لديه',
+  Guardian_of_the_Covenant: 'دافع العهده',
+  recipient_Of_the_Covenant: 'مستلم العهده',
+  The_amount_to_be_paid_now: 'المبلغ الذي سيتم تسديده الان',
+  If_you_want_to_transfer_it_to_someone_choose_from_the_list_of_creditors:
+    'إذا كنت تريد تحوويله لشخص ما اختر من قائمة الدائنين',
+
+  Received: 'تاريخ الاستلام',
+  please_Write_your_task_title: 'الرجاء كتابة العنوان',
+  subject: 'الموضوع',
+  description: 'الوصف',
+  ContactNow: 'تواصل الان',
+  Tasks: 'المهام',
+  Debts: 'ديون واقساط',
+  Covenant: 'عهد',
+  Current: 'الحالية',
+  Add: 'اضف',
+  Ended: 'المنتهيه',
+  Moved_to_finished_task_list: 'تم نقله إلى قائمة المهام المنتهيه',
+  The_amount_has_been_transferred_to: 'تم تحويل المبلغ إلى ',
+  The_amount_has_been_transferred_from: 'تم تحويل المبلغ من ',
+
+  motive: 'الدافع',
+  m: 'م',
+  Date: 'التاريخ',
+  name: 'الاسم',
+  Evacuated: 'تم إخلاء',
+  Evacuatednew: 'إخلاء جديد',
+  vacating: 'إخلاء',
+  Balance: 'رصيدك',
+  phone: 'جوال',
+  Delete: 'حذف',
+  He_has_no_mobile_number: 'لايوجد لديه رقم جوال',
+  You_have_on_egistered_covenant: 'لايوجد لديك عهد مسجلة',
+  PDF_Converter: 'تحويل PDF',
+  excel_Converter: 'تحويل excel',
+  Converted_to_Pdf_successfully: 'تم تحويل الى ملف pdf بنجاح',
+  Converted_to_excel_successfully: 'تم تحويل الى ملف excel بنجاح',
+  Connect_With_support: 'التواصل بالدعم',
+  change_the_language: 'تغيير اللغة',
+  ChangeDarkMode: 'تغيير الوضع المظلم',
+  Instructions_Guidelines: 'تعليمات وارشادات',
+  saved_the_Delet_successfully: 'تم الحذف بنجاح',
+  please_enter_evacuation_information: 'ادخل بيانات الاخلاء من فضلك',
+  Evacuated_to: 'تم الاخلاءإلى',
+  Evacuated_from: 'تم الاخلاء من',
+  Details: 'التفاصيل',
+  Evacuation_attachments: 'مرفقات الاخلاء',
+  Amount_and_capacity: 'مبلغ وقدره',
+
+  The_evacuator: 'القائم بالاخلاء',
+  Eviction_recipient: 'مستلم الاخلاء',
+  Select_an_expense_account_if_you_want_to_transfer_it:
+    'حدد حساب نفقات إذا اردت تحويله',
+  Select_Conversion_type: 'حدد نوع التحويل',
+  Amount_to_be_transferred: 'المبلغ المراد تحويله',
+  Evacuation_details: 'تفاصيل الإخلاء',
+  Details_not_documented: 'لم يتم توثيق التفاصيل',
+  the_covenant_is_locked: 'العهده مقفله',
+  Closing_the_covenant: 'اقفال العهده',
+  Delete_covenant: 'حذف العهده',
+  the_amount_vacated_so_far: 'المبلغ الذي تم اخلائه حتى الان',
+  The_amount_evacuated: 'المبلغ الذي تم اخلائه',
+  The_amount_that_will_be_vacated_now: 'المبلغ الذي سيتم اخلائه الان',
+  Last_payment_date: 'تاريخ اخر عملية سداد',
+  Amount_paid_so_far: 'المبلغ المدفوع حتى الان',
+  Debt_start_date: 'تاريخ بدء الدين',
+  Total_amount_of_debt: 'المبلغ الكلي للدين',
+  You_have_no_registered_debts: 'لايوجد لديك ديون مسجلة',
+  State_of_the_Covenant: 'حالة العهدة',
+  Provider_Or_Recipient_of_the_Covenant: 'مقدم العهده/مستلم العهده',
+  Date_of_receipt_of_covenant: 'تاريخ استلام العهده',
+  Detailed_disclosure_of_the_detailed_covenant: 'كشف تفصيلي عن العهده المفصلة',
+  A_detailed_statement_of_the_covenant_release: 'كشف تفصيلي لأخلاء العهده',
+  number: 'الرقم',
+  Finished: 'منتهيه',
+  unFinished: 'غير منتهيه',
+  class: 'الفئة',
+
+  payments_and_money_transfers: 'عمليات السداد والتحويلات المالية',
+  Conversion_Process: 'عملية التحويل',
+  Installment_date: 'تاريخ القسط',
+  Installment_number: 'القسط رقم',
+  Converter: 'القائم بالتحويل',
+  Transfer_amount: 'مبلغ التحويل',
+  the_person_transferred_from: 'الشخص المحول منه',
+  the_person_to_whom_the_transfer_is_made: 'الشخص المحول له',
+
+  Religion_locked: 'اقفال الدين',
+  Religion_closed: 'الدين مقفل',
+  Delete_Religion: 'حذف الدين',
+  There_are_no_expenses_in_this_account: 'لايوجد نفقات بهذا الحساب',
+  Successfully_Evacuated: 'تم الاخلاء بنجاح',
+  The_amount_must_be_specified: 'يجب تحديد المبلغ ',
+  Contact_us: 'اتصل بناء',
+  Execution: 'تنفيذ',
+  Abdulrhman_Alfeel: 'عبدالرحمن الفيل',
+  For_Inquiries_and_Suggestions_Contact_us: 'للاستفسار وطرح المقترحات اتصل بنا',
+
+  Add_an_account: 'اضف حساب',
+  Expired_Expenses: 'النفقات المنتهيية',
+  Current_expenses: 'النفقات الحالية',
+  you_have_no_recorded_expenses: 'لايوجد لديك نفقات مسجلة',
+  Statement_in_Yemeni_riyals: 'كشف بالريال اليمني',
+  Statement_in_Saudi_riyals: 'كشف بالريال السعودي',
+  Statement_in_Us_dollars: 'كشف بالدولار الامريكي ',
+  Account_delete: 'حذف الحساب',
+  Account_locked: 'اقفال الحساب',
+  Account_closed: 'الحساب مقفل',
+  List_in_all_currencies: 'كشف بكافة العملات',
+  Disclaimer_of_all_covenants: 'كشف بكافة العهد',
+  Status_Account: 'حالة الحساب',
+  Account_creation_time: 'وقت انشاء الحساب',
+  Account_creation_Date: 'تاريخ انشاء الحساب',
+  Total_account_in_Yemeni_riyals: 'اجمالي الحساب بالريال اليمني',
+  Total_Account_in_Saudi_Riyals: 'اجمالي الحساب بالريال السعودي',
+  Total_Account_in_Dollars: 'اجمالي الحساب بالدولار',
+  Expense_Name_Statement: 'اسم/ بيان النفقات',
+  Expense_department_creation_date: 'تاريخ انشاء قسم النفقات',
+  Expense_section_creation_time: 'وقت انشاء قسم النفقات',
+  Total_section_in_Yemeni_rials: 'اجمالي القسم بالريال اليمني',
+  Total_Section_in_Saudi_Riyals: 'اجمالي القسم بالريال السعودي',
+  Total_section_in_dollars: 'اجمالي القسم بالدولار',
+  Substatement_of_Expenditure: 'بيان النفقات الفرعي',
+  Department_expenses: 'نفقات القسم',
+  Details_of_the_account_sections: 'تفصيل اقسام الحساب',
+  Detailed_account_statement: 'كشف تفصيلي عن الحساب',
+  partial: 'جزئي',
+  // ******************
+
+  recipient: 'المستلم',
+  Total_transferred_to_him2: 'اجمالي المحوله اليه',
+  Total_transferred: 'اجمالي المحوله',
+  the_Transaction_cannot_completed1:
+    'لايمكن اكمال العملية مبلغ التحويل اعلى من المتبقي عندك للمحول إليه ',
+  the_Transaction_cannot_completed2:
+    'لايمكن اكمال العملية مبلغ التحويل اعلى من القسط المدفوع من قبل المدين',
+  The_covenant_process_cannot_be_completed:
+    'لايمكن اكمال العملية مبلغ الاخلاء اعلى من المتبقي لديه ',
+  The_covenant_process_cannot_be_completed2:
+    'لايمكن اكمال العملية مبلغ الاخلاء اعلى من اجمالي العهده',
+  The_amount_cannot_be_transferred:
+    'لايمكن تحويل المبلغ لان العملة الخاصة بالنفقات لاتساوي العملة الخاصة بالعهد',
+  The_transaction_cannot_be_Completed_the_payment:
+    'لايمكن اكمال العملية مبلغ الدفع اعلى من المبلغ الذي  عليه',
+  The_transaction_cannot_be_Completed_the_payment2:
+    'لايمكن اكمال العملية مبلغ الدفع اعلى من المتبقي عليه',
+
+  informationExplain: 'معلومات لشرح ماهية التطبيق',
+  informationText1: `  تطبيق الهاتف الذي يقوم بحساب النفقات وقيد العهد والديون والمهام هو
+  أداة رائعة لإدارة الاعمال المالية والإدارية اليومية. يوفر التطبيق
+  للمستخدمين وسيلة سهلة وفعالة لتتبع النفقات والإيرادات وتصنيفها
+  والحفاظ على التزاماتهم المالية.`,
+  informationText2: 'يحتوي التطبيق على مجموعة من الميزات المفيدة، بما في ذلك:',
+  informationText3: ` 1- تصنيف النفقات: يمكن للمستخدمين تصنيف النفقات بطريقة مناسبة لهم،
+  مثل تصنيفها حسب الفئات مثل الغذاء والسفر والترفيه والمنزل والسيارة
+  وغيرها.`,
+  informationText4: `2- تتبع الإيرادات: يمكن للمستخدمين تتبع الإيرادات ومصادرها بطريقة
+  سهلة وفعالة.`,
+  informationText5: `3- قيد العهد والديون: يمكن للمستخدمين تسجيل الديون وقيود العهد
+  وتحديد مواعيد السداد ومراقبتها.`,
+  informationText6: `  4- إدارة المهام: يمكن للمستخدمين تسجيل وإدارة المهام والمشاريع
+  المالية وتحديد المواعيد النهائية ومراقبة التقدم.`,
+  informationText7: `5- تقارير وإحصائيات: يمكن للمستخدمين إنشاء تقارير وإحصائيات حول
+  النفقات والإيرادات والديون والعهود والمهام، مما يمكنهم من مراقبة
+  وتحليل أنماط الإنفاق والمصادر واتخاذ القرارات المالية الذكية.`,
+  informationText8: `باستخدام هذا التطبيق، يمكن للمستخدمين توفير الوقت والجهد في إدارة
+  أمورهم المالية والإدارية اليومية، ويمكنهم الاستمتاع بالمزايا
+  العديدة التي يقدمها التطبيق لتحسين الإدارة المالية والحفاظ على
+  التزاماتهم المالية بسهولة وفعالية.`,
+  informationText9: 'عمل التطبيق',
+  informationText10: 'قسم حسابات النفقات',
+  informationText11: ' 1- قم بإضافة حساب نفقات جديد بادخال اسم ورقم الحساب',
+
+  informationText12: `2- قم بإضافة حسابات نفقات فرعية تحت الحساب الرئيسي الذي تم اضافته
+  سابقا`,
+  informationText13: ` 3- سجل قيود النفقات في الحسابات الفرعية ويتكون القيد من المبلغ
+  والبيان والتفاصيل ان وجدت والوقت والتاريخ`,
+  informationText14: `4- عند تسجيل قيود نفقات في الحسابات الفرعية يتم ضمها الى نفس الفرع
+  من النفقات`,
+  informationText15: `5- النفقات الفرعية يتم ضمها جميعا في جدول تحت الحساب الرئيسي
+  `,
+  informationText16: `6- الواجهة الرئيسية لقسم النفقات توضح اجمالي المبالغ في كل حساب
+  على حدة مع الاجمالي العام لجميع الحسابا`,
+  informationText17: ` 7- عند الانتهاء من حساب نفقات يتيح التطبيق خاصية اقفال الحساب
+  ونقله الى النفقات المنتهية`,
+  informationText18: ` 8- يتيح التطبيق تصدير جميع الجداول الى ملفات pdf او اكسل`,
+  informationText19: `قسم العهد`,
+  informationText20: `1- قيود عهد موضح فيها المبلغ مع التاريخ والوقت والجهة او الشخص
+  مصدر العهدة والتفاصيل`,
+  informationText21: ` 2- يتيح التطبيق ادراج قيود وصور لمستندات من الكاميرا او من المعرض
+  كاخلاءات للمبالغ العهدة`,
+  informationText22: `قسم الديون والاقساط`,
+  informationText23: `1- قيود ديون واقساط مبينا فيها المبلغ والتاريخ والوقت والدائن ووقت
+  السداد`,
+  informationText24: `2- عند السداد يتم نقل حساب الدين الى الديون المنتهية
+  `,
+  informationText25: ` 3- قيود الديون والاقساط التي للشخص على الغير او على الشخص للغير
+  `,
+  informationText26: `4- يتم سداد الدين بشكل كلي او بشكل دفعات عبر نافذة تسديد الدين -
+  كما يمكن تحويل مبلغ السداد لحساب اخر
+`,
+  informationText27: 'قسم المهام',
+  informationText28: `1- تسجيل تفاصيل المهام التي يريد الشخص انجازها`,
+  informationText29: '2- تحديد المدة الزمنية للتنفيذ',
+  informationText30: '3- اضافة صورة للمهامة إذا تطلب الامر',
+  informationText31: 'لمعرفة مكان تخزين ملفات Execl or pdf ',
+  informationText32: '1- ادخل إلى قائمة ملفات هاتفك',
+  informationText33: '2-ادخل ملف Android',
+  informationText34: '3-قم بالدخول إلى مجلد data',
+  informationText35: '4-اختر مجلد التطبيق com.expenses',
+  informationText36: '5-ادخل مجلد files',
+  informationText37: '6-ستكون ملفات pdf Documents',
+  informationText38: 'تعليمات عامة',
+  informationText39: ` لتعديل او المشاهدة او الحذف لاحد اقسام او فروع النفقات انقر نقرة
+  مطولة لتضهر لك مربع عرض البيانات بالاضافة إلى خيارات التعديل
+  والعذف كما في الصورة`,
+  informationText40: ' عند وجود اي اشكاليات او طرح مقترحات يرجى التواصل بنا',
+};
+export default Text_Arabic;
